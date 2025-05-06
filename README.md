@@ -90,4 +90,9 @@ API Security
 
       Rate limiting - The rate must have a limit, to prevent exploitation
 
+CI/CD Pipeline
+
+      CI/CD pipeilines will be crucial for automation of the delivery process.
+      Automated testing within the CI/CD pipeline helps identify and resolve issues early in the development process. 
+
       
