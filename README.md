@@ -57,3 +57,15 @@ Technology Stack
       - GraphQL : Provides a flexible and efficient way to interact with APIs, allowing clients to retrieve the exact data they need.
       
       - PostgreSQL : Communicates with the database servers using objects in their code. Defines complex custom data types.
+
+Database Design 
+
+      Users - 
+
+      Properties
+
+      Bookings
+
+      Payments
+
+      Reviews
