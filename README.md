@@ -69,3 +69,17 @@ Database Design
       Payments - Type of payment accepted
 
       Reviews - This is to appear for each property, which is linked to the specific user.
+
+Feature Breakdown
+
+      User Management - Users are securely managed and duplication is avoided through authentication. 
+
+      Property Management - Properties are managed by a centralised system. 
+
+      Booking System - The booking system is seamless and makes sure there is no conflict in dates. 
+
+      Safe Transaction - All transactions are confidentail.
+
+      Information Security - User information is protected, incluing credit card information.
+
+      
