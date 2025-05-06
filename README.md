@@ -82,4 +82,12 @@ Feature Breakdown
 
       Information Security - User information is protected, incluing credit card information.
 
+API Security
+
+      Authorisation - This is important for payments. All transactions must be authorised by the user.
+
+      Authentication - User data is crucial, therefore all users will be verified and privileges will be controlled. 
+
+      Rate limiting - The rate must have a limit, to prevent exploitation
+
       
