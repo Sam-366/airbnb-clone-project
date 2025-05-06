@@ -60,12 +60,12 @@ Technology Stack
 
 Database Design 
 
-      Users - 
+      Users - Details of the user to be visible 
 
-      Properties
+      Properties - Type of property, this means apartment, room, entire house, villa etc
 
-      Bookings
+      Bookings - Timeline of booking, reservations. 
 
-      Payments
+      Payments - Type of payment accepted
 
-      Reviews
+      Reviews - This is to appear for each property, which is linked to the specific user.
